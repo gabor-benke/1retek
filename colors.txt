@@ -1,0 +1,3 @@
+Retek: R245, G47, B89
+Szár: R117, G200, B34
+Háttér: R76, G38, B0
